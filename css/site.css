@@ -1,0 +1,81 @@
+#contenedor{
+	
+}
+#navbar-container{
+	padding: 0px !important;
+	margin: 0px !important;
+	border-bottom: 5px solid #5e792399;
+}
+#seccion_1{
+	background-image: url("/archivos/imagenes/Terraza.jpg");
+	height: 500px; 
+	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+#seccion_2{
+	background-image: url("/archivos/imagenes/cecped.png");
+	background-size: 300px 100px;
+  	background-repeat: repeat-x;
+  	background-position: bottom; 
+	height: 400px;
+}
+#seccion_3{
+	background-image: url("/archivos/imagenes/Terraza.jpg");
+	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+#servicios{
+	margin-bottom: 15px;
+}
+#info-contacto{
+	width: 100%;
+}
+#seccion_4{
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+#pie{
+	background-image: url("/archivos/imagenes/colash.png");
+  	background-size: 100% 100%;
+  	font-style: bold;
+  	color: white;
+  	border-top: 5px solid #5e7923;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	height: 100%;
+	background-color: #CCC; 
+}
+#pie_2{
+	height: 50px;
+	background-color: #212529;
+}
+.velo{
+	width: 100%;
+	height: 100%;
+	background-color: #000000b3;
+}
+.titulos_sobrepuestos{
+	position: static;
+	z-index: 100;
+}
+.titulo-principal{
+	text-align: center;
+	color: beige;
+	font-style: oblique;
+	font-size: 8em;
+	margin-top: 1em;
+}
+/* Includes */
+#informacion{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+#formulario-contacto{
+	background-color: #000C;
+	padding-bottom: 15px;
+}
