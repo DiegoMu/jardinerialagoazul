@@ -34,7 +34,7 @@
 		    $mail->Body    = $datos['mensaje'] . '<br>' .$datos['email'];
 		    $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
-		    $registro_de_mensages = fopen("correos.txt", "a");
+		    $registro_de_mensages = fopen("correos.txt", "rb");
 		    fwrite($registro_de_mensages, "Nombre:" . $datos['nombre'] . " Correo:" . $datos['email'] . " Mensaje: " . $datos['mensaje'] . "\n");
  			fclose($registro_de_mensages);
 
@@ -48,7 +48,7 @@
 			$respuesta = array(
 		   		'estado'  => 'Error',
 		   		'campo'   => False,
-		   		'mensaje' => 'No pudimos enviar su correo, intentelo mas tarde.', 
+		   		'mensaje' => 'No pudimos enviar su correo, intentelo mas tarde. ' . $mail->ErrorInfo, 
 		   	);
 		    //echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 		}
