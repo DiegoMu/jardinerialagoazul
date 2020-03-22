@@ -18,7 +18,7 @@
 						<img src="archivos/imagenes/work-avatar.png" class="card-img-top">
 						<div class="card-body">
 						    Tomas Monterrosa de la Cruz<br>
-							Tel: 3317
+							Tel: 3317476375
 						 </div>
 					</div>
 
