@@ -4,7 +4,7 @@
 			<h1>Quienes Somos</h1>
 			<hr>
 			<p>
-				Donec vitae libero blandit, porta orci a, mollis massa. Praesent ullamcorper quam a ligula blandit porttitor. Morbi vestibulum, augue id rhoncus finibus, odio dolor consectetur magna, eget elementum urna mi sit amet diam. Etiam vel magna pharetra, tincidunt lacus in, scelerisque erat. Cras enim enim, egestas vel mi ut, pulvinar fringilla orci. Donec bibendum pretium metus, vitae efficitur quam pharetra nec. Nulla sollicitudin dolor quis turpis consequat porta. Ut gravida eros lacus, vel varius purus viverra ut. Sed porta, nibh id vulputate tincidunt, nulla lacus porta ligula, nec luctus erat enim sed lectus. Maecenas quam enim, convallis ut lorem nec, tempor posuere ex. Etiam vel nunc eu tortor accumsan aliquam nec vehicula enim. Maecenas a elit vel enim rhoncus tempor eu ultricies lacus. 
+				Somos una empresa renovada del 2020 para ofrecerles un mejor servicio con personal capacitado y responsable realizando todo tipo de trabajo. Nos encargamos de instalaciones y diseño de sistemas de riego, mantenimiento general de jardines, poda de árboles y palmeras, diseño de Jardines y fertilizaciones. Atendemos cualquier tipo de empresa escuelas coto centros comerciales colegios terrenos baldíos casa y todo en general
 			</p>
 		</div>
 	</div>

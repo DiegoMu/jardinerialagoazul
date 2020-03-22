@@ -19,13 +19,13 @@
 		    $mail->Host       = 'smtp.ionos.mx';
 		    $mail->SMTPAuth   = true;
 		    $mail->Username   = 'jardineria_lago_azul@dwdmp.com';
-		    $mail->Password   = 'JLAMail@I0n05';
+		    $mail->Password   = '*_Nspm@I0n05';
 		    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
 		    $mail->Port       = 587;
 
 		    //Recipients
 		    $mail->setFrom('jardineria_lago_azul@dwdmp.com', 'Formulario de contacto en Jardineria Lago Azul');
-		    $mail->addAddress($datos['email'], 'Jardineria Lago Azul');
+		    $mail->addAddress('diego.m.sistemas@gmail.com', 'Jardineria Lago Azul');
 		    $mail->addReplyTo($datos['email'], $datos['nombre']);
 
 		    // Content
